@@ -155,7 +155,6 @@ parking-management-system/
 ├── user_tree_data.txt       # User data persistence file
 ├── status_tree_data.txt     # Parking status data file
 ├── README.md                # This file
-└── LICENSE                  # License information
 ```
 
 •System Architecture
